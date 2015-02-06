@@ -1,0 +1,6 @@
+C:\programming\c_sharp\herbert_schildt\chapter_16\bin\Debug\chapter_16.exe.config
+C:\programming\c_sharp\herbert_schildt\chapter_16\bin\Debug\chapter_16.exe
+C:\programming\c_sharp\herbert_schildt\chapter_16\bin\Debug\chapter_16.pdb
+C:\programming\c_sharp\herbert_schildt\chapter_16\obj\Debug\chapter_16.csprojResolveAssemblyReference.cache
+C:\programming\c_sharp\herbert_schildt\chapter_16\obj\Debug\chapter_16.exe
+C:\programming\c_sharp\herbert_schildt\chapter_16\obj\Debug\chapter_16.pdb
